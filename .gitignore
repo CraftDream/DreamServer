@@ -1,0 +1,36 @@
+# various other potential build files
+/build
+
+/projects
+/plugin
+/eclipse
+/.gradle
+/.vscode
+/spigot
+/patches2
+/patches3
+/patchesMCP
+/projects2
+/projects3
+/projects4
+/classes
+/out
+/logs
+
+# Mac filesystem dust
+.DS_Store
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# patch
+*.rej
+
+#eclipse
+**/bin
+**/.settings
+**/.classpath
+*.project
